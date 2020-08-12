@@ -1,3 +1,7 @@
+# Run
+ - Download the repository.
+ - Extract the repository.
+ - Open jupyter notebook and run it 
 # Web Automation
 
 We are Developers. We don't do different thing. We do the same thing but in a smarter way.
@@ -12,4 +16,9 @@ Selenium is written using Java but we have it python binding as well. So seleniu
 Selenium needs something called a web-driver. Every browser has its own driver. So in this way we can use the particular web-driver of the particular web browser and automate it.
 
 Wanna Know More [Visit this](https://sauravchaudharysc.github.io/Automaton-Testing/)
+
+## Error
+So many times the problem is that when browser is made small. Selenium is unable to know the correct position of html elements.So better use 
+browser.maximize_window()
+
 
